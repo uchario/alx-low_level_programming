@@ -3,3 +3,4 @@
 #include "2-print_alphabet_x10.c"
 #include "3-islower.c"
 #include "4-isalpha.c"
+#include "5-sign.c"
