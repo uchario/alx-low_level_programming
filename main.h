@@ -4,3 +4,5 @@
 #include "3-islower.c"
 #include "4-isalpha.c"
 #include "5-sign.c"
+#include "6-abs.c"
+#include "7-print_last_digit.c"
