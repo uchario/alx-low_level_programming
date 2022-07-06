@@ -6,3 +6,5 @@
 #include "5-sign.c"
 #include "6-abs.c"
 #include "7-print_last_digit.c"
+#include "8-24_hours.c"
+#include "9-times_table.c"
